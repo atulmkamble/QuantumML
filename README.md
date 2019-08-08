@@ -1,4 +1,4 @@
-# QuantumMachineLearning
+# Quantum Machine Learning
 This Repository is created for the resources of Quantum Machine Learning
 
 # Getting Started:
